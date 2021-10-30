@@ -27,3 +27,9 @@ button {
   box-shadow: 0 0 15px black;
   cursor: pointer;
 }
+.plot{
+  display:none;
+}
+.plot:hover{
+display:block;
+}
