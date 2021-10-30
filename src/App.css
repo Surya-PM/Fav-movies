@@ -23,10 +23,10 @@ button {
   border-radius: 20px;
   width: 100%;
 }
-.content:hover {
+/* .content:hover {
   box-shadow: 0 0 15px black;
   cursor: pointer;
-}
+} */
 .plot{
   display:none;
 }
